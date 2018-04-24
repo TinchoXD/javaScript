@@ -15,14 +15,16 @@ var arregloPrueba = [str1, str2, str3, str4, int1, int2];
 function validarNumeroDeStringsEnArreglo(arreglo) {
 
     var i = 0;
-    var d = 0
+var cont = 0;
     for (i; i < arreglo.length; i++) {
         console.log(typeof arreglo[i]);
         //console.log(arreglo[i]);
-
+        if (typeof arreglo[i] == 'string') {
+        cont = cont+1;
+        }
     }
 
-    return '';
+    return 'el numero de Strings en el arreglo es: ' + cont;
 
 }
 

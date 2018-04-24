@@ -12,7 +12,7 @@ var int2 = 456;
 var arregloPrueba = [str1, str2, str3, str4, int1, int2];
 
 
-function validarNumeroDeStringsEnArreglo(arreglo = ['hola', 'mundo', 1, 2, 3]) {
+function validarNumeroDeStringsEnArreglo(arreglo) {
 
     var i = 0;
     var d = 0

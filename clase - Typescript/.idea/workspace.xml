@@ -58,7 +58,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="20" />
     <option name="y" value="20" />
     <option name="width" value="1400" />
@@ -76,6 +76,11 @@
             <path>
               <item name="clase - Typescript" type="b2602c69:ProjectViewProjectNode" />
               <item name="clase - Typescript" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="clase - Typescript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="clase - Typescript" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -117,25 +122,25 @@
       <option name="presentableId" value="Default" />
       <updated>1524863346247</updated>
       <workItem from="1524863347604" duration="316000" />
-      <workItem from="1524863673505" duration="3387000" />
+      <workItem from="1524863673505" duration="3646000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3703000" />
+    <option name="totallyTimeSpent" value="3962000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TypeScript" weight="0.32978722" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25477707" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25477707" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3537234" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3537234" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />

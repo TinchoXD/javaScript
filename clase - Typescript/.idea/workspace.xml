@@ -1051,7 +1051,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../angular/spiler-app" />
     <property name="node.js.detected.package.prettier" value="true" />
     <property name="node.js.path.for.package.prettier" value="project" />
     <property name="node.js.selected.package.prettier" value="" />
@@ -1085,12 +1085,12 @@
       <workItem from="1524863347604" duration="316000" />
       <workItem from="1524863673505" duration="4245000" />
       <workItem from="1525289544591" duration="2376000" />
-      <workItem from="1525806474917" duration="342000" />
+      <workItem from="1525806474917" duration="403000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7279000" />
+    <option name="totallyTimeSpent" value="7340000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
